@@ -161,3 +161,4 @@ cython_debug/
 
 plot/
 allocate
+*.png
